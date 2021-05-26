@@ -1,0 +1,72 @@
+section.fifthPage {
+	height: 100vh;
+	min-height: 100vh;
+	position: relative;
+}
+.finish {
+	position: absolute;
+	top: 0;
+	left: 480px;
+	width: 75%;
+}
+
+.img-box4 {
+	display: block;
+	height: 100vh;
+	top: 0; 
+	padding-left: 0;
+}
+
+h3.cont {
+	position: absolute;
+	font-size: 2em;
+	font-family: 'Roboto', sans-serif;
+	height: 100%;
+	width: 62.5%;
+	left: 480px;
+	text-align: center;
+	top: 30%;
+	
+}
+
+.card {
+	top: 45%;
+	position: absolute;
+	left: 480px;
+	height: 100vh;
+	width: 62.5%;
+	display: block;
+	justify-content: center;
+	align-items: center;
+}
+
+.card2 {
+	margin: 30%;
+	margin-top: 0;
+	height: 40vh;
+	border-style: solid;
+	border-width: 10px;
+	border-color: #ffe500;
+}
+
+.card2 > p {
+	text-align: center;
+	vertical-align: center;
+	font-family: 'Roboto', sans-serif;
+	font-size: 2em;
+	font-weight: 300;
+	margin-top: 20px;
+}
+
+a:link {
+  color: black;
+}
+
+a:visited {
+	color: black;
+}
+
+a {
+	text-decoration: none;
+	color: #000;
+}
